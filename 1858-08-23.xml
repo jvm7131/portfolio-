@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entries date="1858-08-23">August 23. It<weather> rained</weather> very hard in <place
+        where="canada">Newfoundland</place> from <time>midnight</time><time> until six A.M.</time>
+   <!-- The rain from the night before messed up the signal so they were testing the telegraph message singal the whole day -->
+    <message num="1"><sender from="canada">Newfoundland</sender> to<receiver to="ireland">
+            Valentia</receiver>. “Your currents very irregular. Repeat.”</message>
+    <message num="2"><sender from="ireland">Valentia</sender> to<reciver to="canada">
+            Newfoundland</reciver>. “Signals weak. Will you take message from <person
+                who="mayor of london">Lord Mayor</person>?”</message>
+    <message num="3"><sender from="canada">Newfoundland</sender> to <reciver to="ireland"
+            >Valentia</reciver>. “Yes; send little <speed>faster</speed> and better.”</message>
+    <message num="4"><sender from="ireland">Valentia </sender>to<reciver to="canada">
+            Newfoundland</reciver>. “Give ‘understand ‘every twenty words.”</message>
+    <message num="5"><sender from="canada">Newfoundland</sender> to <reciver to="ireland"
+            >Valentia</reciver>. “All right. Send much<speed> faster</speed>.” “Understand,
+        <speed>faster</speed>.” Testing nearly the whole of the day at <place where="ireland"
+            >Valentia</place>.</message></entries>
+
