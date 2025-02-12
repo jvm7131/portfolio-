@@ -35,5 +35,15 @@ h2{text-align:center
     
 }
 h3{
-    font-size:20px
+    font-size:20px;
+    background-color:#A920D0;
+
+  width:500px
+}
+nav{
+background-color:#A920D0;
+padding:10px;
+text-align:center;
+border-radius:8px
+    
 }
