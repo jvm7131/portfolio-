@@ -1,6 +1,7 @@
 body {
                 background: #D48AFE ;
                 font-family: "Garamond", "Courier New", monospace;
+                font-size:20px
             }
             
 figure {
@@ -32,4 +33,7 @@ h1{
 }
 h2{text-align:center
     
+}
+h3{
+    font-size:20px
 }
