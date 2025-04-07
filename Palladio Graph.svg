@@ -1,0 +1,388 @@
+<svg width="1172" height="800" version="1.1" xmlns="http://www.w3.org/2000/svg" style="">
+    <rect class="overlay" width="1172" height="800" fill="none"/>
+    <g class="main">
+        <g class="layer nodes">
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(505.23561424465686,329.718276674299)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(523.5389664521507,318.3519402457526)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(495.0836092425466,311.1141789882435)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(487.5633851085495,341.68877859928256)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(515.9013904490561,348.0856292308313)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(663.3603453609087,518.077999865041)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(657.4394243487095,535.8127467791703)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(779.0811201466466,374.2141870990405)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(786.8507274055302,356.65757600265243)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(604.5665488841644,304.1048953973684)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(600.5708498861743,285.8434838361952)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(534.406053046644,507.0950977484983)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(520.2506286318446,493.2762410440692)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(484.6505801128362,422.960958185226)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(503.62870106942603,423.16079237471274)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(526.447551774434,474.7312404584186)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(682.9037635158281,361.5714211356159)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(686.6863922882719,381.2407633069463)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(663.5334453355085,355.9221658348994)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(695.6828106554013,346.14742439329655)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(642.8845046631739,445.8006637287786)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(661.7143072441166,446.6171353109704)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(733.6676436664735,494.9794669253919)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(715.8703910908436,489.01139652843557)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(777.2476149010427,339.6131352899539)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(580.9297951575031,380.87803075759496)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(599.0113257380654,374.13993317754347)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(575.3019667110004,399.7017951137881)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(660.6293834078738,251.17835239346272)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(674.1967897364126,264.2220162812066)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(650.6035000649299,235.6081963040611)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(573.3424324356652,232.02328861676648)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(556.7697662710486,241.52048311020525)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(735.3442599644811,266.94892321928603)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(739.6031908035663,285.18293576661586)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(741.9889094951375,431.5178160310791)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(760.1241666415988,437.30186752610416)"/>
+            <circle fill="#730fff" class="node source" r="5"
+                transform="translate(599.799022661575,508.48768212420134)"/>
+            <circle fill="#730fff" class="node target" r="5"
+                transform="translate(599.947657858572,489.33065860170177)"/>
+        </g>
+        <g class="layer labels">
+            <g class="anchor-node source"
+                transform="translate(502.2807083213097,328.53542318579076)">
+                <text transform="translate(-102.56571745695138,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Art of the Book
+                    of Life</text>
+            </g>
+            <g class="anchor-node target" transform="translate(522.4537239402543,315.5266775418223)">
+                <text transform="translate(-60.01542060810278,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Cushing,
+                    Spencer</text>
+            </g>
+            <g class="anchor-node target" transform="translate(492.0528626206616,308.7558003764923)">
+                <text transform="translate(-79.08120213657303,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Gutierrez, Jorge
+                    R.</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(483.8177805042211,341.75681624578993)">
+                <text transform="translate(-61.18245396840543,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Hahn,
+                    Sierra</text>
+            </g>
+            <g class="anchor-node target" transform="translate(513.3506104853485,349.3115792278911)">
+                <text transform="translate(-82.39784092046612,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Richardson,
+                    Mike</text>
+            </g>
+            <g class="anchor-node source" transform="translate(664.6850929940006,520.8064155898415)">
+                <text transform="translate(-76.65490609319966,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Cartoon vision:
+                    UPA animation and postwar aesthetics</text>
+            </g>
+            <g class="anchor-node target" transform="translate(657.8236254254654,539.4070196057642)">
+                <text transform="translate(-34.977690082845264,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Bashara,
+                    Daniel</text>
+            </g>
+            <g class="anchor-node source" transform="translate(782.1503221572001,375.3003829981782)">
+                <text transform="translate(-2.0761822734888993,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Disney
+                    History</text>
+            </g>
+            <g class="anchor-node target" transform="translate(790.412965874408,356.20836580987475)">
+                <text style="font-family: karla, Arial, Helvetica; font-size: 11px;"/>
+            </g>
+            <g class="anchor-node source" transform="translate(603.4533444734816,301.8264018656497)">
+                <text transform="translate(-284.2883145678465,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Forbidden
+                    animation: censored cartoons and blacklisted animators in America</text>
+            </g>
+            <g class="anchor-node target" transform="translate(599.7585856139128,282.7732846230033)">
+                <text transform="translate(-42.170094260479694,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Cohen, Karl
+                    F.</text>
+            </g>
+            <g class="anchor-node source" transform="translate(533.2592402524874,510.4084432702314)">
+                <text transform="translate(-193.52994362500175,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Hollywood
+                    cartoons: American animation in its golden age</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(517.5510186755959,495.62471638374154)">
+                <text transform="translate(-76.64835243243061,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Barrier, J.
+                    Michael</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(481.1691885166284,423.78811340496435)">
+                <text transform="translate(-429.32670510891415,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The Colored
+                    cartoon: Black representation in American animated short films, 1907-1954</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(501.08514896877614,424.56425016987504)">
+                <text transform="translate(-108.48556905302458,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Lehman,
+                    Christopher P.</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(523.7961257234244,475.95236454385844)">
+                <text transform="translate(-190.43617417218726,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The animated man:
+                    a life of Walt Disney</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(685.4597621367764,360.88539723427107)">
+                <text transform="translate(-2.0710576144095225,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The art of
+                    Finding Nemo</text>
+            </g>
+            <g class="anchor-node target" transform="translate(688.850397377334,383.12337810763427)">
+                <text transform="translate(-7.226007156634076,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Pixar
+                    (Firm)</text>
+            </g>
+            <g class="anchor-node target" transform="translate(662.3128551453431,353.646085237049)">
+                <text transform="translate(-57.48665826979373,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Vaz, Mark
+                    Cotta</text>
+            </g>
+            <g class="anchor-node target" transform="translate(698.1806504913842,344.2010195169986)">
+                <text transform="translate(-11.64510796902062,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Walt Disney
+                    Company</text>
+            </g>
+            <g class="anchor-node source" transform="translate(642.1168736773083,448.4214366627917)">
+                <text transform="translate(-212.34915536047038,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The art of Walt
+                    Disney: from Mickey Mouse to the Magic Kingdoms</text>
+            </g>
+            <g class="anchor-node target" transform="translate(663.7118836102125,448.7260159089562)">
+                <text transform="translate(-14.520444447186158,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Finch,
+                    Christopher</text>
+            </g>
+            <g class="anchor-node source" transform="translate(736.3438831854645,497.3805007154309)">
+                <text transform="translate(-11.097216873004983,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">The color of
+                    Pixar</text>
+            </g>
+            <g class="anchor-node target" transform="translate(717.2219801772335,491.7125680158263)">
+                <text transform="translate(-15.018202460668238,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Kratter,
+                    Tia</text>
+            </g>
+            <g class="anchor-node source" transform="translate(779.9704103352846,337.6982783922407)">
+                <text transform="translate(-14.27085151071993,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Walt Disney
+                    Animation Studios</text>
+            </g>
+            <g class="anchor-node source" transform="translate(578.388180892573,379.96123084824467)">
+                <text transform="translate(-58.58061083005677,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Walt
+                    Disney</text>
+            </g>
+            <g class="anchor-node target" transform="translate(600.8714106613706,372.5784380133516)">
+                <text transform="translate(-13.691160598725304,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">PBS Distribution
+                    (Firm)</text>
+            </g>
+            <g class="anchor-node target" transform="translate(573.1920341753548,401.6829214474522)">
+                <text transform="translate(-50.00459930946999,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Platt,
+                    Oliver</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(661.4586913315025,248.13638474867045)">
+                <text transform="translate(-50.188128956916735,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Walt Disney:
+                    conversations</text>
+            </g>
+            <g class="anchor-node target" transform="translate(676.3514618261163,262.0315573824322)">
+                <text transform="translate(-9.26917119153704,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Disney,
+                    Walt</text>
+            </g>
+            <g class="anchor-node target" transform="translate(650.5855844292934,232.0251846575449)">
+                <text transform="translate(-59.22735892853215,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Jackson, Kathy
+                    Merlock</text>
+            </g>
+            <g class="anchor-node source" transform="translate(572.793628812524,228.59754830090304)">
+                <text transform="translate(-157.45498314799426,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Walt Disney: the
+                    triumph of the American imagination</text>
+            </g>
+            <g class="anchor-node target" transform="translate(554.5256411345052,238.9581532355844)">
+                <text transform="translate(-49.42340760936047,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Gabler,
+                    Neal</text>
+            </g>
+            <g class="anchor-node source" transform="translate(737.3485455927173,264.0434050489562)">
+                <text transform="translate(-53.88140618752526,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Walt before
+                    Mickey: Disney's early years, 1919-1928</text>
+            </g>
+            <g class="anchor-node target" transform="translate(742.4908855006515,283.7786540570059)">
+                <text transform="translate(-4.997406630825862,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Susanin, Timothy
+                    S.</text>
+            </g>
+            <g class="anchor-node source" transform="translate(744.4828666979383,432.8112134814759)">
+                <text transform="translate(-21.377329582716783,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">[Disney Podcast]
+                    Walt Disney Animation's Fantasia 2000 Review [DCast E38]</text>
+            </g>
+            <g class="anchor-node target" transform="translate(763.3968159679268,438.6342798376366)">
+                <text transform="translate(-2.268572624328094,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Disney
+                    Tales</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(599.1988243647257,511.88762814885126)">
+                <text transform="translate(-245.13668575682212,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">295 The Who's Who
+                    In The Animation Industry - Does Disney Really Own Everything?</text>
+            </g>
+            <g class="anchor-node target" transform="translate(598.8219232942201,491.8419345023538)">
+                <text transform="translate(-43.821546892926065,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    >Rotoscopers</text>
+            </g>
+        </g>
+        <g class="layer links">
+            <path class="link"
+                d="M505.23561424465686,329.718276674299L523.5389664521507,318.3519402457526"
+                href="#path0_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M505.23561424465686,329.718276674299L495.0836092425466,311.1141789882435"
+                href="#path0_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M505.23561424465686,329.718276674299L487.5633851085495,341.68877859928256"
+                href="#path0_3"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M505.23561424465686,329.718276674299L515.9013904490561,348.0856292308313"
+                href="#path0_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M663.3603453609087,518.077999865041L657.4394243487095,535.8127467791703"
+                href="#path5_6"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M779.0811201466465,374.2141870990405L786.8507274055302,356.65757600265243"
+                href="#path7_8"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M604.5665488841644,304.1048953973684L600.5708498861743,285.8434838361952"
+                href="#path9_10"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M534.406053046644,507.0950977484983L520.2506286318446,493.27624104406925"
+                href="#path11_12"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M484.6505801128362,422.960958185226L503.62870106942603,423.16079237471274"
+                href="#path13_14"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M526.447551774434,474.7312404584186L520.2506286318446,493.27624104406925"
+                href="#path15_12"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M682.9037635158281,361.5714211356159L686.6863922882719,381.2407633069463"
+                href="#path16_17"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M682.9037635158281,361.5714211356159L663.5334453355085,355.9221658348994"
+                href="#path16_18"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M682.9037635158281,361.5714211356159L695.6828106554013,346.14742439329655"
+                href="#path16_19"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M642.8845046631739,445.8006637287786L661.7143072441166,446.6171353109704"
+                href="#path20_21"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M733.6676436664735,494.9794669253919L715.8703910908436,489.0113965284356"
+                href="#path22_23"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M777.2476149010427,339.6131352899539L786.8507274055302,356.65757600265243"
+                href="#path24_8"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M580.9297951575031,380.87803075759496L599.0113257380654,374.13993317754347"
+                href="#path25_26"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M580.9297951575031,380.87803075759496L575.3019667110004,399.7017951137881"
+                href="#path25_27"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M660.6293834078738,251.17835239346272L674.1967897364126,264.2220162812066"
+                href="#path28_29"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M660.6293834078738,251.17835239346272L650.6035000649299,235.6081963040611"
+                href="#path28_30"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M573.3424324356652,232.02328861676648L556.7697662710486,241.52048311020525"
+                href="#path31_32"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M735.3442599644811,266.94892321928603L739.6031908035663,285.18293576661586"
+                href="#path33_34"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M741.9889094951375,431.51781603107906L760.1241666415988,437.30186752610416"
+                href="#path35_36"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M599.799022661575,508.48768212420134L599.947657858572,489.33065860170177"
+                href="#path37_38"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"
+            />
+        </g>
+    </g>
+</svg>
