@@ -79,3 +79,15 @@ li{
 img.corp{
     width:50%
 }
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  
+}
+th, td {
+  background-color:#8a2be2;
+  color:white;
+}
+h2{color:white;
+    
+}
